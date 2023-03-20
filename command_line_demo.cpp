@@ -1,6 +1,10 @@
 //------------------------------------------------------------------------------
 // command_line_demo.cpp
 // 
+//  - command line argument demo
+//  - string manipulation with folder paths, file names
+//  - text file to stringstream 
+// 
 // Author: https://www.learncpp.com/cpp-tutorial/command-line-arguments/
 // Modified by: Prof. Linda C
 //------------------------------------------------------------------------------
